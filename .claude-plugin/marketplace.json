@@ -1,0 +1,21 @@
+{
+  "name": "application-essay-studio",
+  "owner": {
+    "name": "guahhs",
+    "url": "https://github.com/guahhs"
+  },
+  "metadata": {
+    "description": "An application-essay reviewing and drafting skill for international applicants to Japanese English-medium programmes and for scholarship essays.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "application-essay-studio",
+      "source": "./",
+      "description": "Review, stress-test, restructure and draft application essays. Four ordered passes (administrative, accuracy, structure, line), a thirteen-dimension rubric, a four-layer fact-check, and a six-seat admissions committee that rejects by default and iterates until the applicant calls it done.",
+      "version": "1.0.0",
+      "category": "writing",
+      "keywords": ["admissions", "application-essay", "personal-statement", "scholarship", "study-in-japan"]
+    }
+  ]
+}
