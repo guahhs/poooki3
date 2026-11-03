@@ -1,0 +1,8 @@
+{
+  "name": "application-essay-studio",
+  "version": "1.0.0",
+  "description": "Review, stress-test, restructure and draft university and scholarship application essays, with a six-seat admissions committee that rejects by default. Built for international applicants to Japanese English-medium programmes and for scholarship essays.",
+  "author": { "name": "guahhs" },
+  "license": "MIT",
+  "keywords": ["admissions", "application-essay", "personal-statement", "scholarship", "statement-of-purpose", "study-in-japan", "essay-review", "writing-feedback"]
+}
